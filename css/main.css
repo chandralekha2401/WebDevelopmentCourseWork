@@ -1,0 +1,19 @@
+
+
+* {
+    font-family: 'Satisfy', cursive;
+ }
+
+ .text_style {
+    font-family: 'Source Code Pro', monospace;
+ }
+
+ .title {
+    padding: 30px 30px;
+    text-align: center;
+    color: #352311;
+ }
+
+ .para {
+    padding: 0px 100px;
+ }
